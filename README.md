@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dameon, an <a href="www.linkedin.com/in/dameon-crockett-9872aa238">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dameon, an <a href="www.linkedin.com/in/dameoncrockett">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
